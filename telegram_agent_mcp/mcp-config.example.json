@@ -1,0 +1,9 @@
+{
+  "mcpServers": {
+    "telegram-agent": {
+      "command": "node",
+      "args": ["dist/index.js"],
+      "cwd": "<TELEGRAM_MCP_DIR>"
+    }
+  }
+}
